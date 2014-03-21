@@ -2,6 +2,7 @@ arduino-nes-controller
 ======================
 
 Transform your Arduino Uno and NES controller into a USB keyboard
+![arduino-nes-controller](http://dev.uselessworks.com/images/arduino-nes.jpg)
 
 Setup
 ======================
@@ -67,7 +68,7 @@ Once you are comfortable with this operation, the process is very simple :
 
 
 
-Feel free to use, share, or modify this code !
+Feel free to use, share, or modify this code !  
 Feel also free to give me feedback and propose improvements.
 
 
