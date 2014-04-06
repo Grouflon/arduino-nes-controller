@@ -3,7 +3,7 @@
 
 const int AKey = 27;         // X
 const int BKey = 6;          // C
-const int SELECTKey = 40;    // ENTER
+const int SELECTKey = 25;    // V
 const int STARTKey = 40;     // ENTER
 const int UPKey = 82;        // UP ARROW
 const int DOWNKey = 81;      // DOWN ARROW
